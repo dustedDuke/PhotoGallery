@@ -36,7 +36,7 @@ public class PhotoGalleryFragment extends Fragment {
 
     private class PhotoHolder extends RecyclerView.ViewHolder {
         private ImageView mItemImageView;
-
+//Hi
         public PhotoHolder(View itemView) {
             super(itemView);
             mItemImageView = (ImageView) itemView.findViewById(R.id.fragment_photo_gallery_image_view);
